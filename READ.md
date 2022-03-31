@@ -10,7 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qrcodecomponent-solution-r1NAyxQmc)
 - Live Site URL: [Add live site URL here](https://magical-lokum-e7215e.netlify.app/)
 
 ### Built with
